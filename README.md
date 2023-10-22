@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MXT1680
+- 👋 Hi, I’m MXT
 - 🌱 I’m currently self learning CS 61B, an interesting data structures course from Berkeley.
 - 👀 I’m into into many different kinds of things,like coding, reading, cooking and traveling.
 - 💻 I am a beginner learner with coding skills in Java , and some self-taught basic knowledge in HTML, Python.
